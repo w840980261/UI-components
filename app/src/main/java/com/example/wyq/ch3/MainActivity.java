@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//        requestWindowFeature(Window.FEATURE_NO_TITLE);
         final int color1 = 0xFF670003;
         final int color2 = 0xFFFFFFFF;
         //创建一个list集合，list集合的元素是Map
