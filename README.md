@@ -507,3 +507,8 @@ public class Main4Activity extends AppCompatActivity {
     }
 }
 ```
+效果图
+单选列表
+![单选列表](https://raw.githubusercontent.com/w840980261/UI-components/master/img/4_1.png)
+长按后进入ActionMode,可多选
+![长按后进入ActionMode,可多选](https://raw.githubusercontent.com/w840980261/UI-components/master/img/4_2.png)
